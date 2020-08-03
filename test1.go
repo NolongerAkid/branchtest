@@ -22,6 +22,8 @@ func main(){
 	fmt.Println((*A).a)
 	fmt.Println(a)//changed
 
+	//main modified
+
 
 
 }
